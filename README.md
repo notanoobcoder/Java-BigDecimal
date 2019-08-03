@@ -1,0 +1,2 @@
+# Java-BigDecimal
+Java's BigDecimal class can handle arbitrary-precision signed decimal numbers. Let's test your knowledge of them!  Given an array, , of  real number strings, sort them in descending order — but wait, there's more! Each number must be printed in the exact same format as it was read from stdin, meaning that  is printed as , and  is printed as . If two numbers represent numerically equivalent values (e.g., ), then they must be listed in the same order as they were received as input).
